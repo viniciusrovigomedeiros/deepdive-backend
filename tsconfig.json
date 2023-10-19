@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "lib": ["es6", "dom"],
+    "allowJs": true,
+    "rootDir": "src",
+    "strict": true,
+    "noImplicitAny": true,
+    "strictPropertyInitialization": false,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "outDir": "build",
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "target": "es2017",
+  }
+}
